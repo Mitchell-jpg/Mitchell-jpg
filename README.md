@@ -1,25 +1,18 @@
-## <div align="center">Hey 👋, I'm Mitchell!</div>  
-  
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!+My+name+is+Mitchell.;Enjoy+your+stay!" alt="Typing SVG" /></a>
+</h1>
 
-<div align="center">
-<a href="https://github.com/Mitchell-jpg" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mitchell-j" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mitchell-jpg&&style=flat-square" align="center" />
-</div>  
-  
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/mitchell-j/" title="LinkedIn Profile"><img width="22" src="https://camo.githubusercontent.com/6eeeae9698286e45eda5d2973026a896fd42fa7f4271bf31aa74e9557e82181a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"> LinkedIn</a></code>
+  <code><a href="https://www.github.com/mitchell-jpg/" title="Github Profile"><img width="22" src="https://camo.githubusercontent.com/6859b81bad9211632c09ba0ba5aff3ce23d87f38bd199a05cfdd67b70d8ef58e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"> Github</a> </code>
+</h5>
+<br>
+<p align="center">
+  Glad you stopped by! I'm a student learning about information security and exploring the world of automation and machine learning. I enjoy optimizing networks, working with automation tools, and learning new things!
+  <br>
+  <br>
+</p>
+<hr>
 
 
-
-### Glad to see you here!  
-I am a Cybersecurity student in Kentucky. I am enthusiastic about information security and enjoy optimizing networks, working with automation tools, and learning new things!  
-  
-
-<div align="center">👇Check out some of my projects!👇</div>
+<!--
