@@ -8,7 +8,7 @@
 </h5>
 <br>
 <p align="center">
-  Glad you stopped by! I'm a student learning about information security and exploring the world of automation and machine learning. I enjoy optimizing networks, working with automation tools, and learning new things!
+  Glad you stopped by! I'm a student learning about information security and exploring the world of automation and development. I enjoy optimizing networks, working with automation tools, and learning new things!
   <br>
   <br>
 </p>
